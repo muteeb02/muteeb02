@@ -20,5 +20,6 @@
 ## 👀 Visitor Count:
 ![Visitor Count](https://profile-counter.glitch.me/muteeb02/count.svg)
 <!-- Replace 'muteeb02' with your GitHub username -->
+![Your GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=muteeb02&bg_color=ffffff&color=ffd700&line=ffd700&point=ffffff&area=true&hide_border=true)
 
 
