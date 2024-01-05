@@ -6,18 +6,19 @@
 - 📫 How to reach me: muteeb.masoodi@amishtech.net
 
 ## 🛠 Technologies and Tools:
-![](https://img.shields.io/badge/Code-Next.js-yellow)
-![](https://img.shields.io/badge/Tool-Node.js-yellow)
-<!-- Add more badges here, you can change the badge color by replacing 'yellow' with 'brightgreen', 'orange', etc. -->
+![](https://img.shields.io/badge/Code-Next.js-FFD700)
+![](https://img.shields.io/badge/Tool-Node.js-FFD700)
+<!-- Add more badges with gold color by setting &color=FFD700 in the URL -->
 
 ## 📈 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=muteeb02&show_icons=true&theme=yellow-green)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=muteeb02&show_icons=true&theme=default&title_color=FFD700&icon_color=FFD700)
 <!-- Replace 'muteeb02' with your GitHub username -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muteeb02&layout=compact&theme=yellow-green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muteeb02&layout=compact&title_color=FFD700)
 <!-- Replace 'muteeb02' with your GitHub username -->
 
 ## 👀 Visitor Count:
 ![Visitor Count](https://profile-counter.glitch.me/muteeb02/count.svg)
 <!-- Replace 'muteeb02' with your GitHub username -->
+
 
